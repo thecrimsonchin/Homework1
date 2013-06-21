@@ -1,6 +1,0 @@
-HI, How are you?
-
-I just pushed this file from my local machine to the git repository
- where I can now access it from any command line and even pull
-    it onto the remote cloud machine
-
